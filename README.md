@@ -1,5 +1,6 @@
 # shared-vec
-Project word vectors into shared space with linear CCA
+
+Project word vectors into a shared space with linear CCA.
 
 This project follows Faruqui and Dyer 2010 (http://www.aclweb.org/anthology/E14-1049) for creating shared representations of word vectors.
 
